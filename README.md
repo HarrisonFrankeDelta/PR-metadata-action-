@@ -21,5 +21,6 @@ erDiagram
         string productCode
         int quantity
         float pricePerUnit
+        int number
     }
  ```
